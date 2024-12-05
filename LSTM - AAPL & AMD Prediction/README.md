@@ -1,1 +1,1 @@
-LSTM - AAPL & AMD Stock Predicition (1998)
+# LSTM - AAPL & AMD Stock Predicition (1998)
