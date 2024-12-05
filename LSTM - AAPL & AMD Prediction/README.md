@@ -1,1 +1,3 @@
-# LSTM - AAPL & AMD Stock Predicition (1990 - 2019)
+# LSTM - AAPL & AMD Stock Predicition (1980 - 2019)
+
+### Description
